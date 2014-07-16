@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Open Sans Hebrew Condensed
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      ExtraBold
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      2.001;UKWN;OpenSansHebrewCondensed-ExtraBold
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Open Sans Hebrew Condensed ExtraBold
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2.001;PS 002.001;hotconv 1.0.70;makeotf.lib2.5.58329
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      OpenSansHebrewCondensed-ExtraBold
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      Open Sans Hebrew Cond ExBold
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Open Sans Hebrew Condensed ExBd
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      2.001;UKWN;OpenSansHebrewCondensed-ExtraBold
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Open Sans Hebrew Condensed ExtraBold
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.001;PS 002.001;hotconv 1.0.70;makeotf.lib2.5.58329
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      OpenSansHebrewCondensed-ExtraBold
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Open Sans Hebrew Condensed
+    </namerecord>
+    <namerecord nameID="17" platformID="3" platEncID="1" langID="0x409">
+      ExtraBold
+    </namerecord>
+  </name>
+
+</ttFont>

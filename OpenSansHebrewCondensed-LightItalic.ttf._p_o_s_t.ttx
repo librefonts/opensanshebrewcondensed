@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="-12.0"/>
+    <underlinePosition value="-75"/>
+    <underlineThickness value="50"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="uni00A0"/>
+      <psName name="overscore"/>
+      <psName name="uni05B0"/>
+      <psName name="uni05B1"/>
+      <psName name="uni05B2"/>
+      <psName name="uni05B3"/>
+      <psName name="uni05B4"/>
+      <psName name="uni05B5"/>
+      <psName name="uni05B6"/>
+      <psName name="uni05B7"/>
+      <psName name="uni05B8"/>
+      <psName name="uni05B9"/>
+      <psName name="uni05BA"/>
+      <psName name="uni05BB"/>
+      <psName name="uni05BC"/>
+      <psName name="uni05BD"/>
+      <psName name="uni05BE"/>
+      <psName name="uni05C1"/>
+      <psName name="uni05C2"/>
+      <psName name="uni05C7"/>
+      <psName name="uni05D0"/>
+      <psName name="uni05D1"/>
+      <psName name="uni05D2"/>
+      <psName name="uni05D3"/>
+      <psName name="uni05D4"/>
+      <psName name="uni05D5"/>
+      <psName name="uni05D6"/>
+      <psName name="uni05D7"/>
+      <psName name="uni05D8"/>
+      <psName name="uni05D9"/>
+      <psName name="uni05DA"/>
+      <psName name="uni05DB"/>
+      <psName name="uni05DC"/>
+      <psName name="uni05DD"/>
+      <psName name="uni05DE"/>
+      <psName name="uni05DF"/>
+      <psName name="uni05E0"/>
+      <psName name="uni05E1"/>
+      <psName name="uni05E2"/>
+      <psName name="uni05E3"/>
+      <psName name="uni05E4"/>
+      <psName name="uni05E5"/>
+      <psName name="uni05E6"/>
+      <psName name="uni05E7"/>
+      <psName name="uni05E8"/>
+      <psName name="uni05E9"/>
+      <psName name="uni05EA"/>
+      <psName name="gereshhb"/>
+      <psName name="gershayimhb"/>
+      <psName name="uni20AA"/>
+      <psName name="Euro"/>
+      <psName name="uniFB01"/>
+      <psName name="uniFB02"/>
+      <psName name="uniFB2A"/>
+      <psName name="uniFB2B"/>
+      <psName name="shindageshshindothb"/>
+      <psName name="shindageshsindothb"/>
+      <psName name="alefpatahhb"/>
+      <psName name="alefqamatshb"/>
+      <psName name="alefdageshhb"/>
+      <psName name="betdageshhb"/>
+      <psName name="gimeldageshhb"/>
+      <psName name="daletdageshhb"/>
+      <psName name="hedageshhb"/>
+      <psName name="uniFB35"/>
+      <psName name="zayindageshhb"/>
+      <psName name="tetdageshhb"/>
+      <psName name="yoddageshhb"/>
+      <psName name="finalkafdageshhb"/>
+      <psName name="kafdageshhb"/>
+      <psName name="lameddageshhb"/>
+      <psName name="memdageshhb"/>
+      <psName name="nundageshhb"/>
+      <psName name="samekhdageshhb"/>
+      <psName name="finalpedageshhb"/>
+      <psName name="pedageshhb"/>
+      <psName name="tsadidageshhb"/>
+      <psName name="qofdageshhb"/>
+      <psName name="reshdageshhb"/>
+      <psName name="shindageshhb"/>
+      <psName name="tavdageshhb"/>
+      <psName name="uniFB4B"/>
+      <psName name="NULL"/>
+    </extraNames>
+  </post>
+
+</ttFont>
