@@ -1,0 +1,123 @@
+{
+  "name": "Open Sans Hebrew Condensed",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 28231,
+  "fonts": [
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 800,
+      "filename": "OpenSansHebrewCondensed-ExtraBold.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-ExtraBold",
+      "fullName": "Open Sans Hebrew Condensed ExtraBold",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 800,
+      "filename": "OpenSansHebrewCondensed-ExtraBoldItalic.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-ExtraBoldItalic",
+      "fullName": "Open Sans Hebrew Condensed ExtraBold Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansHebrewCondensed-Light.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-Light",
+      "fullName": "Open Sans Hebrew Condensed Light",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansHebrewCondensed-LightItalic.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-LightItalic",
+      "fullName": "Open Sans Hebrew Condensed Light Italic",
+      "copyright": "copyright missing"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 700,
+      "filename": "OpenSansHebrewCondensed-Bold.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-Bold",
+      "fullName": "Open Sans Hebrew Condensed Bold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 700,
+      "filename": "OpenSansHebrewCondensed-BoldItalic.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-BoldItalic",
+      "fullName": "Open Sans Hebrew Condensed Bold Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 800,
+      "filename": "OpenSansHebrewCondensedExtraBold-Regular.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-ExtraBold",
+      "fullName": "Open Sans Hebrew Condensed Extra Bold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 800,
+      "filename": "OpenSansHebrewCondensedExtraBold-Italic.ttf",
+      "postScriptName": "OpenSansHebrewCondensedExtraBold-Italic",
+      "fullName": "Open Sans Hebrew Condensed Extra Bold Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 400,
+      "filename": "OpenSansHebrewCondensed-Italic.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-Italic",
+      "fullName": "Open Sans Hebrew Condensed Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansHebrewCondensedLight-Regular.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-Light",
+      "fullName": "Open Sans Hebrew Condensed Light",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansHebrewCondensedLight-Italic.ttf",
+      "postScriptName": "OpenSansHebrewCondensedLight-Italic",
+      "fullName": "Open Sans Hebrew Condensed Light Italic",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation. Copyright (c) 2012, 2013 Yanek Iontef (yanek@netvision.net.il)"
+    },
+    {
+      "name": "Open Sans Hebrew Condensed",
+      "style": "normal",
+      "weight": 400,
+      "filename": "OpenSansHebrewCondensed-Regular.ttf",
+      "postScriptName": "OpenSansHebrewCondensed-Regular",
+      "fullName": "Open Sans Hebrew Condensed",
+      "copyright": "copyright missing"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
